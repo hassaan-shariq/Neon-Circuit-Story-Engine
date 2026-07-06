@@ -1,0 +1,1 @@
+Neon Circuit Story Engine is an AI-powered storytelling project that generates original cinematic stories set in The Neon Circuit universe. It uses generative AI to create dynamic narratives featuring unique racer characters, futuristic vehicles, and neon-lit districts, serving as a foundation for Dravon's expanding fictional world.
